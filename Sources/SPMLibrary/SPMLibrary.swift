@@ -1,5 +1,5 @@
 public struct SPMLibrary {
-    public var text = "Hello, World!"
+    public var text = "Hell, World!"
     
     public init() {
         
